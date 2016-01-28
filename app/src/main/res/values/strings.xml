@@ -2,5 +2,8 @@
     <string name="app_name">Hello World</string>
     <string name="action_settings">Settings</string>
     <string name="content_label">This is the label string </string>
+    <string name="settings_rename">Settings Update</string>
 
+
+    settings
 </resources>

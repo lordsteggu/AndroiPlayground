@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="VcsDirectoryMappings">
-    <mapping directory="G:/Git Repositories" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
     <mapping directory="G:/Git Repositories/Android Playground" vcs="Git" />
     <mapping directory="G:/Git Repositories/Hello World" vcs="Git" />
   </component>
